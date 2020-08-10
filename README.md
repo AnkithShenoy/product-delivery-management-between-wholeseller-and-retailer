@@ -1,5 +1,6 @@
-# product-delivery-management-between-wholeseller-and-retailer
+# product-delivery-management-between-wholeseller-and-retailer-online
 a web project to buy and sell products from whole seller and retailer using online.
+PRODEL which means PROduct DELivery system
 # DESCRIPTION:
  The project entitled “PRODEL”project is developed using PHP as Front-End and Microsoft SQL Server as Back-End. In this project customer i.e. shop owner can order the product through online. It supports all aspects of the delivery process through online. The distributor will purchase the products from suppliers. After confirming the orders from the shop owner, distributor will deliver the products within customer provided order date. All Customer details, products, order details and sales orders can be stored in the PRODEL web application.
  # OBJECTIVES OF THE PROJECT:
