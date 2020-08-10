@@ -44,4 +44,5 @@ PRODEL which means PROduct DELivery system
 -	Lots of paper works are reduced.
 
 # create database using localhost or xamp server i.e mysql 
-# create DATAfiles as mentioned in the DATABASEDESIGN.DOC
+# create DATABASE files as mentioned in the DATABASEDESIGN.DOC
+# UNZIP BOTH admin.rar and user.rar 
